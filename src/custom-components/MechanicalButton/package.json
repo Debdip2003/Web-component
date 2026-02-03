@@ -1,0 +1,26 @@
+{
+  "name": "mechanicalbutton",
+  "version": "1.0.0",
+  "description": "Button component made with React that looks like the key of mechanical keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debdip2003/Web-component.git"
+  },
+  "keywords": [
+    "Mechanical",
+    "Keyboard's",
+    "key",
+    "styles",
+    "button"
+  ],
+  "author": "Debdip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Debdip2003/Web-component/issues"
+  },
+  "homepage": "https://github.com/Debdip2003/Web-component#readme"
+}

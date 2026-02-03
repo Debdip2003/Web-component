@@ -1,5 +1,5 @@
 import './App.css'
-import MechanicalButton from './custom-components/MechanicalButton'
+import MechanicalButton from './custom-components/MechanicalButton/MechanicalButton'
 import { AiFillAlert } from "react-icons/ai";
 
 function App() {
